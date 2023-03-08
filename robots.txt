@@ -1,1 +1,1 @@
-Sitemap: https://github.com/vanHeemstraSystems/learning-voronoi-treemap-themes/sitemap.xml
+Sitemap: https://github.com/vanHeemstraSystems/learning-drawing-themes/sitemap.xml
