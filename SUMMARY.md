@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Voronoi Treemap - Themes](README.md)
+* [Learning Drawing - Themes](README.md)
