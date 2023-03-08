@@ -1,14 +1,14 @@
 ---
-title: "D3 Voronoi Treemap"
+title: "Line Drawing"
 ---
 
 About this site
 
-We base our Theme: Master FoamTree on Planning a [Minimum Viable Nothing (MVN)](https://github.com/vanHeemstraSystems/minimum-viable-nothing).
+We base our Theme: Master Line Drawing on Planning a [Minimum Viable Nothing (MVN)](https://github.com/vanHeemstraSystems/minimum-viable-nothing).
 
 ## 2. Find the **Opportunities**.
 
-See [Learning - D3 Voronoi Treemap](https://vanheemstrasystems.github.io/learning-d3-voronoi-treemap/)
+See [Learning - Line Drawing](https://vanheemstrasystems.github.io/learning-line-drawing/)
 
 ### a) Map out the **User Journey(s)**.
 
